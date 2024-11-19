@@ -1,6 +1,4 @@
-Here's a simple yet comprehensive `README.md` for your Tic Tac Toe project in React:
 
-```markdown
 # Tic Tac Toe in React
 
 A classic Tic Tac Toe game built with **React**! This project is designed to showcase fundamental React skills like state management, component-based architecture, and handling user interactions.
@@ -104,6 +102,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 Inspired by the classic Tic Tac Toe game and the React documentation tutorials.
-```
-
-You can adjust the structure and content based on your specific implementation and features!
